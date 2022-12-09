@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _6thAssignment_NUnitTesting
 {
-    internal class FindingSqRoot
+    public class FindingSqRoot
     {
         public static void SquareRoot()
         {
